@@ -84,10 +84,4 @@ foremost
 scalpel
 ```
 
-## Resume-Friendly Description
-
-Developed a Bash-based digital forensics and file recovery tool that automates disk image analysis, forensic timeline generation, deleted file recovery, optional file carving, and SHA-256 based deduplication using The Sleuth Kit, Foremost, and Scalpel.
-
-## License
-
-Add your preferred license here, such as MIT.
+Please feel free to use this tool, and for any kind of error, please feel free to contact.😌😌
